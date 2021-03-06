@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "2f4b5dc2b258eb87dc9d",
-    "url": "/HAT/static/css/main.fbd96dfc.chunk.css"
+    "revision": "af56a5a9fc28592d8b98",
+    "url": "/HAT/static/css/main.ac071c92.chunk.css"
   },
   {
-    "revision": "2f4b5dc2b258eb87dc9d",
-    "url": "/HAT/static/js/main.2f4b5dc2.chunk.js"
+    "revision": "af56a5a9fc28592d8b98",
+    "url": "/HAT/static/js/main.af56a5a9.chunk.js"
   },
   {
-    "revision": "7b2d49048e90c276ae3c",
-    "url": "/HAT/static/css/1.ed02b254.chunk.css"
+    "revision": "0dc9c1818dfa5a3b4aa0",
+    "url": "/HAT/static/css/1.da648edf.chunk.css"
   },
   {
-    "revision": "7b2d49048e90c276ae3c",
-    "url": "/HAT/static/js/1.7b2d4904.chunk.js"
+    "revision": "0dc9c1818dfa5a3b4aa0",
+    "url": "/HAT/static/js/1.0dc9c181.chunk.js"
   },
   {
     "revision": "141eeddedae5f91f616d",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/HAT/static/media/eth-logo.616af379.png"
   },
   {
-    "revision": "91dadcf59b20da6922866ba8e2ed879c",
+    "revision": "1614eb032f0ec2c88da45a6dd6287648",
     "url": "/HAT/index.html"
   }
 ];
